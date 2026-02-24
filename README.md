@@ -5,8 +5,8 @@ The challenge was not just ranking individual pages, but building consistent vis
 # Table Of Content
 |SEO  | Work |
 | ----- | ------ |
-| [Web Site Audit](#Web-Site-Audit) | DA,PA,Spam score, Domain Age |
-
+| [Web Site Audit](#Web-Site-Audit) | DA,PA,Spam score, Domain Age, all SEO Fcators |
+| [SEO objective](#SEO-Objective) | Ranking,AI Overview,Traffic and Lead growth |
 
 # Web Site Audit
 
