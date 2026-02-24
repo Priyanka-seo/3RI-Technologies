@@ -1,4 +1,4 @@
-<p align="right">
+<p align="Center">
   <a href="#on-page-seo">
     <img src="https://img.shields.io/badge/On--Page-SEO-2563EB?style=for-the-badge&logo=google&logoColor=white" />
   </a>
