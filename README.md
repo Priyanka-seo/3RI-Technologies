@@ -47,15 +47,8 @@ The challenge was not just ranking individual pages, but building consistent vis
 - Build brand/entity authority for AI Overview inclusion
 - Achieve sustainable organic growth, not traffic spikes
 
-# SEO Strategy Applied
-Rather than relying on a single tactic, the SEO approach focused on scalable fundamentals:
-- Search intent mapping for course, certification, and placement-based queries
-- Structured on-page optimization (headings, internal linking, semantic relevance)
-- Local SEO optimization for Pune-based searches
-- Content refinement using Google Search Console insights
-- Consistent entity signals across content and brand mentions
-- Built a natural backlink profile with a healthy follow/nofollow mix
-- Focused on authority signals that support both traditional search and AI-driven results
+# Site architecture and navigation audit 
+
 
 # 📈 SEO Execution Highlights
   
